@@ -20,7 +20,7 @@ History:        24Sep2019 - initial version
 Next Steps:     Add thread health-checking watchdog.
                 Demonstrate semaphores for thread-safe variables.
 
-Notices:        https://github.com/RichardFoo/threading
+Notices:        https://github.com/RichardFoo/Meetup-Threading
                 Richard@Hornbaker.com
 """
 
