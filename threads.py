@@ -63,14 +63,6 @@ class screenWriter():
 
 
     def doStuff( self ):
-#         """
-#         This is a stub method that posts a one-time message then calls the infinite loop.
-#         """
-#         print("[%f] %s thread started" % (time.time(), self.text))
-#         self.runForever()
-# 
-# 
-#     def runForever( self ):
         """
         This is the main loop for the object.  It runs indefinitely, printing a message
         to the console along with a timestamp, then it sleeps for the configured interval.
